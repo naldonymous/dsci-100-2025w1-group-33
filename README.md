@@ -1,2 +1,2 @@
-# dsci-100-project_template
-Template project repository for DSCI-100
+# Welcome!
+This is a repository for the Project Planning Stage for the DSCI 100 Project. Synced with Jupyter.
